@@ -1,0 +1,7 @@
+.pokeList {
+  display: grid;
+  justify-content: center;
+  margin-top: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
